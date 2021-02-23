@@ -3,7 +3,7 @@
 ![](https://inlab.fib.upc.edu/sites/default/files/styles/large/public/field/image/django-rest-framework.jpg)
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-##What are dynamic views
+## What are dynamic views
 
 Dynamic views is a efficient ways of reduce your amount of serializers.This is achieved because through the viewset that django_dynamic_fields provides, the fields can be selected depending on the action that is being performed
 
