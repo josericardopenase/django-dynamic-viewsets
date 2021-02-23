@@ -1,2 +1,13 @@
-# django_dynamic_viewsets
-Django app for making rest_framework dynamic viewsets. You can change the fields of the serializer depending on which action are you doing in the view.
+
+
+# Dynamic django viewsets
+
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+
+
+### Features
+
+- Create your own viewsets using concrete fields per action.
+
