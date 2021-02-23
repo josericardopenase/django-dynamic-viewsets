@@ -5,7 +5,7 @@
 
 ## What are dynamic views
 
-Dynamic views is a efficient ways of reduce your amount of serializers.This is achieved because through the viewset that django_dynamic_fields provides, the fields can be selected depending on the action that is being performed
+Dynamic views is a efficient way to reduce your amount of serializers.This is achieved because through the viewset that django_dynamic_fields provides, the fields can be selected depending on the action that is being performed
 
 ### example:
 
